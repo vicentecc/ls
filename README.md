@@ -1,6 +1,6 @@
 #Linguagem de Script
 
-![Banner da disciplina](assets/dw.png)
+![Banner da disciplina](assets/ls.jpg)
 
 Esta disciplina tem como objetivo apresentar ao aluno conceitos sobre linguagens de script, processamento do lado cliente, vetores e objetos em ls, modularização com o uso de funções, Document Object Model (DOM) e expressões regulares.
 
