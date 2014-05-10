@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		input[type=text] {
+			display: block;
+		}
+	</style>
+</head>
+<body>
+	<input type="text" id="number1">
+	<input type="text" id="number2">
+	<input type="button" value="+">
+	<input type="button" value="-">
+	<input type="button" value="*">
+	<input type="button" value="/">
+	<input type="text" id="result">
+	<script>
+		for(var flag = 3; flag <= 6; flag++){
+			// Primeira forma de atribuir evento
+			// document
+			// 	.querySelector('input[type=button]:nth-child('+flag+')')
+			// 	.onclick = function(){
+			// 			calculate(this.value);
+			// 		};
+			
+			// Segunda forma de atribuir evento
+			var action = function(){
+				calculate(this.value);
+			};
+			document
+				.querySelector('input[type=button]:nth-child('+flag+')')
+				.addEventListener('click', action, null);	
+		}
+		function calculate(operator){
+			var number1 = document.querySelector("#number1").value;
+			var number2 = document.querySelector("#number2").value;
+			document.querySelector("#result").value = eval(number1+operator+number2);
+		}
+	</script>
+</body>
+</html>
