@@ -35,15 +35,24 @@ A nota final será computado através da média aritmética das avaliações, re
 * [MDN](https://developer.mozilla.org/)
 * [Safari Dev](https://developer.apple.com/library/safari/navigation/)
 * [IE Dev](http://msdn.microsoft.com/en-us/library/hh772374(v=vs.85).aspx)
-* http://jstherightway.org/
-* Livros
-  * http://jsbooks.revolunet.com/
 
 ##ECMA-262
 
+* Conteúdo
+  * Tutoriais: [Web Platform](http://docs.webplatform.org/wiki/javascript) e [MDN](https://developer.mozilla.org/en/docs/Web/JavaScript)
+  * http://jstherightway.org/
+* Livros
+  * http://jsbooks.revolunet.com/
+* Referências
+  * ECMA-262: [Web Platform](http://docs.webplatform.org/wiki/javascript#Index_of_all_JavaScript_topics) e [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+  * [Browser Engine](http://en.wikipedia.org/wiki/Web_browser_engine)
+* Cheat Sheet
+  * http://overapi.com/javascript/
+  * http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/
+ 
 ##W3C
 
-##Outros
+##Frameworks
 
 ###jQuery
 
