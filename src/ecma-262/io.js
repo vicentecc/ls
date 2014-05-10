@@ -1,8 +1,8 @@
-#Input
+// Input
 var value = window.prompt("Digite algum valor:");
 var value = document.querySelector("#id").value;
 
-#Output
+// Output
 alert("Exibe caixa");
 console.log("Exibe no console");
 document.write("Exibe no documento");
