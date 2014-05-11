@@ -39,12 +39,19 @@ A nota final será computado através da média aritmética das avaliações, re
 ##ECMA-262
 
 * Conteúdo
-  * Tutoriais: [Web Platform](http://docs.webplatform.org/wiki/javascript) e [MDN](https://developer.mozilla.org/en/docs/Web/JavaScript)
-  * http://jstherightway.org/
+  * Tutoriais: 
+    * [Web Platform](http://docs.webplatform.org/wiki/javascript)
+    * [MDN JS Portal](https://developer.mozilla.org/en/docs/Web/JavaScript)
+    * [MDN JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+    * http://www.codecademy.com/tracks/javascript-combined
+    * https://www.codeschool.com/paths/javascript
+    * https://www.learnstreet.com/lessons/javascript/
+    * http://thecodeplayer.com/
+    * http://jstherightway.org/
 * Livros
   * http://jsbooks.revolunet.com/
 * Referências
-  * ECMA-262: [Web Platform](http://docs.webplatform.org/wiki/javascript#Index_of_all_JavaScript_topics) e [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+  * ECMA-262: [ECMA](http://www.ecma-international.org/ecma-262/5.1/), [Web Platform](http://docs.webplatform.org/wiki/javascript#Index_of_all_JavaScript_topics) e [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
   * [Browser Engine](http://en.wikipedia.org/wiki/Web_browser_engine)
 * Cheat Sheet
   * http://overapi.com/javascript/
@@ -52,11 +59,43 @@ A nota final será computado através da média aritmética das avaliações, re
  
 ##W3C
 
+* DOM
+  * http://docs.webplatform.org/wiki/dom
+  * https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference
+  * Evento
+    * https://developer.mozilla.org/en-US/docs/Web/Reference/Events
+    * https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers
+    * https://developer.mozilla.org/en-US/docs/Web/API/Event
+    * https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
+    * https://developer.mozilla.org/en-US/docs/Web/API/EventTarget.addEventListener
+    * http://www.w3schools.com/jsref/dom_obj_event.asp
+* Web API
+  * http://docs.webplatform.org/wiki/apis
+  * https://developer.mozilla.org/en-US/docs/Web/API
+  * https://developer.mozilla.org/en-US/docs/Web
+
 ##Frameworks
+
+* http://www.jsdb.io/
 
 ###jQuery
 
+* http://jquery.com/
+* http://jquerymobile.com/
+* http://jqueryui.com/
+* http://oscarotero.com/jquery/
+* http://www.unheap.com/
+* http://bestofjquery.com/
+
 ###Angular.js
+
+* http://angularjs.org/
+* http://ngmodules.org/
+* http://angular-ui.github.io/
+
+###Outros
+
+* http://coffeescript.org/
 
 ##Ferramentas
 
@@ -66,13 +105,15 @@ A nota final será computado através da média aritmética das avaliações, re
   * [Brackets](http://brackets.io/)
   * http://codepen.io/
   * http://jsfiddle.net/
+  * http://js.do/
+  * http://jsbin.com/
 * Virtualização
   * [Virtual Box](https://www.virtualbox.org/)
   * [Vagrant](http://www.vagrantup.com/)
   * [Puphpet](https://puphpet.com/)
 * Documentação off-line:
   * http://devdocs.io/
-  * http://dochub.io/#html/
+  * http://dochub.io/#javascript/
   * http://overapi.com/
 * Web Developer Tool 
   * [Firefox](https://developer.mozilla.org/en-US/docs/Tools)
