@@ -52,6 +52,10 @@ A nota final será computado através da média aritmética das avaliações, re
     * http://jstherightway.org/
 * Livros
   * http://jsbooks.revolunet.com/
+* Preprocessadores
+  * http://coffeescript.org/
+  * http://livescript.net/
+  * http://www.typescriptlang.org/
 * Referências
   * ECMA-262: [ECMA](http://www.ecma-international.org/ecma-262/5.1/), [Web Platform](http://docs.webplatform.org/wiki/javascript#Index_of_all_JavaScript_topics) e [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
   * [Browser Engine](http://en.wikipedia.org/wiki/Web_browser_engine)
@@ -94,10 +98,6 @@ A nota final será computado através da média aritmética das avaliações, re
 * http://angularjs.org/
 * http://ngmodules.org/
 * http://angular-ui.github.io/
-
-###Outros
-
-* http://coffeescript.org/
 
 ##Ferramentas
 
