@@ -35,6 +35,8 @@ A nota final será computado através da média aritmética das avaliações, re
 * [MDN](https://developer.mozilla.org/)
 * [Safari Dev](https://developer.apple.com/library/safari/navigation/)
 * [IE Dev](http://msdn.microsoft.com/en-us/library/hh772374(v=vs.85).aspx)
+* [Tableless](http://tableless.com.br/)
+* [BrasilJS](http://braziljs.org/)
 
 ##ECMA-262
 
