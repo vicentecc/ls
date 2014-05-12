@@ -31,8 +31,8 @@
 	<script>
 		var board = document.querySelector('#board');
 		var content = "";
-		for(var flagRow = 1; flagRow<= 10;flagRow++){
-			for(var flagCol = 1; flagCol<= 10;flagCol++){
+		for(var flagRow = 10; flagRow--;){
+			for(var flagCol = 10; flagCol--;){
 				content += ((flagRow+flagCol)%2==0)?"<div class='mark'></div>":"<div></div>";
 			}
 		}

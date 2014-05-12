@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<input type="text" name="times" id="times" placeholder="Número de itens">
+	<input type="button" id="button" value="Gerar lista">
+	<ul id="list"></ul>
+	<script>
+		document.querySelector('#button').onclick = function(){
+			var times = document.querySelector('#times').value;
+			for(var flag = 1; flag<= times; flag++){
+				document.querySelector('#list').innerHTML += "<li>Item "+flag+"</li>"
+			}
+		};		
+	</script>
+</body>
+</html>
