@@ -61,6 +61,8 @@ A nota final será computado através da média aritmética das avaliações, re
   * [Browser Engine](http://en.wikipedia.org/wiki/Web_browser_engine)
 * Cheat Sheet
   * http://overapi.com/javascript/
+  * http://devdocs.io/javascript/
+  * http://dochub.io/#javascript/
   * http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/
  
 ##W3C
