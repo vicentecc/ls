@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<input type="text" id="firstField">
+	<input type="text" id="secondField">
+	<script>
+		document.querySelector("#firstField").onkeyup = function(){
+				document.querySelector("#secondField").value = this.value.toUpperCase();
+		};
+	</script>
+</body>
+</html>
