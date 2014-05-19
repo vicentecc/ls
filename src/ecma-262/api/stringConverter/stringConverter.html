@@ -205,6 +205,21 @@
 			var content = document.querySelector('textarea#source').value;
 			document.querySelector('textarea#target').value = content.toUpperCase();
 		}
+		document.querySelector('#camelcase').onclick = function(){
+			var content = document.querySelector('textarea#source').value;
+			content = content.split('');
+			content[0] = content[0].toUpperCase();
+			for(var index in content){
+				if(content[index-1] == " ")
+					content[index] = content[index].toUpperCase()
+			}
+			content  = content.join('');
+			document.querySelector('textarea#target').value = content;	
+		}
+
+		// Character to/from ASCII number 
+		// Number("?".charCodeAt()).toString(2)
+		// String.fromCharCode(parseInt("00111111", 2))
 	</script>
 </body>
 </html>
