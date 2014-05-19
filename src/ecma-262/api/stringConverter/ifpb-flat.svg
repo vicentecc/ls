@@ -1,0 +1,17 @@
+<!-- <style>
+    svg:hover rect {
+        background: #A2E022;
+    }
+</style>
+ --><svg width="50" height="60" xmlns="http://www.w3.org/2000/svg">
+    <circle stroke="#ffffff" fill="#41916E" stroke-width="0" cx="13.64174" cy="7.41122" r="6.64174"/>
+    <rect stroke="#ffffff" fill="#41916E" stroke-width="0" x="7.19159" y="14.75545" width="12.90031" height="12.90031" rx="3" ry="3"/>
+    <rect stroke="#ffffff" fill="#41916E" stroke-width="0" x="7.19159" y="28.59774" width="12.90031" height="12.90031" rx="3" ry="3"/>
+    <rect stroke="#ffffff" fill="#41916E" stroke-width="0" x="7.19159" y="42.59969" width="12.90031" height="12.90031" rx="3" ry="3"/>
+    <rect stroke="#ffffff" fill="#41916E" stroke-width="0" x="21.04984" y="14.75545" width="12.90031" height="12.90031" rx="3" ry="3"/>
+    <rect stroke="#ffffff" fill="#41916E" stroke-width="0" x="21.04984" y="28.59774" width="12.90031" height="12.90031" rx="3" ry="3"/>
+    <rect stroke="#fffcfc" fill="#41916E" stroke-width="0" x="21.04984" y="42.59969" width="12.90031" height="12.90031" rx="3" ry="3"/>
+    <rect stroke="#ffffff" fill="#41916E" stroke-width="0" x="35.09969" y="28.59774" width="12.90031" height="12.90031" rx="3" ry="3"/>
+    <rect stroke="#ffffff" fill="#41916E" stroke-width="0" x="21.04984" y="0.96106" width="12.90031" height="12.90031" rx="3" ry="3"/>
+    <rect stroke="#ffffff" fill="#41916E" stroke-width="0" x="35.09969" y="0.96106" width="12.90031" height="12.90031" rx="3" ry="3"/>
+</svg>
