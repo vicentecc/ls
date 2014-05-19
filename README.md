@@ -50,6 +50,12 @@ A nota final será computado através da média aritmética das avaliações, re
     * https://www.learnstreet.com/lessons/javascript/
     * http://thecodeplayer.com/
     * http://jstherightway.org/
+  * Objetos
+    * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+    * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Inheritance_Revisited
+    * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+    * http://www.json.org/
+    * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
 * Livros
   * http://jsbooks.revolunet.com/
 * Preprocessadores
