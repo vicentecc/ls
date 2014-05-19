@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		var student = new Object(); 
+		student.mark = [1, 2, 3];
+		student.calcMark = function(){
+			var sum = 0;
+			for(var index in this.mark){
+				sum += this.mark[index];
+			}
+			return sum/this.mark.length;
+		}
+
+		// console.log(student.calcMark());
+		var calcMark = function(){
+			var sum = 0;
+			for(var index in this.mark){
+				sum += this.mark[index];
+			}
+			return sum/this.mark.length;
+		}
+		var student2 = {
+			mark: [1, 2, 3], 
+			calcMark: calcMark
+		};		
+
+		// var student2 = {
+		// 	mark: [1, 2, 3], 
+		// 	calcMark: function(){
+		// 		var sum = 0;
+		// 		for(var index in this.mark){
+		// 			sum += this.mark[index];
+		// 		}
+		// 		return sum/this.mark.length;
+		// 	}
+		// };
+		// console.log(student2.calcMark());
+
+		function Student(mark){
+			this.mark = mark;
+			this.calcMark = calcMark;
+		}
+		student3 = new Student([10, 10, 10])
+		console.log(student3.calcMark());
+		student4 = new Student([9, 9, 9])
+		console.log(student3.calcMark());
+
+		student3.name = "Aluno Fulano de Tal";
+		console.log(student3.name);
+		console.log(student4.name);
+		Student.prototype.name = "Aluno Fulano de Tal";
+		console.log(student3.name);
+		console.log(student4.name);
+	</script>
+</body>
+</html>
