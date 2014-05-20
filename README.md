@@ -62,6 +62,13 @@ A nota final será computado através da média aritmética das avaliações, re
   * http://coffeescript.org/
   * http://livescript.net/
   * http://www.typescriptlang.org/
+* Web API
+  * http://api.vagalume.com.br/
+  * http://www.lastfm.com.br/api
+  * http://community.openspending.org/help/api/
+  * http://www.republicavirtual.com.br/cep/exemplos.php
+  * http://ipinfo.io/ (Geolocation)
+  * http://www.programmableweb.com/
 * Referências
   * ECMA-262: [ECMA](http://www.ecma-international.org/ecma-262/5.1/), [Web Platform](http://docs.webplatform.org/wiki/javascript#Index_of_all_JavaScript_topics) e [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
   * [Browser Engine](http://en.wikipedia.org/wiki/Web_browser_engine)
